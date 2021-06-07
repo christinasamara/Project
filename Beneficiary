@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Beneficiary extends User{
+public class Beneficiary extends User{ 
     public int noPersons = 1;
     private List<RequestDonation> receivedList;
     private List<Requests> requestsList;
